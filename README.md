@@ -5,7 +5,7 @@
 ### 💻 Data Science Student | 🐍 Python Developer | 🤖 AI Enthusiast
 
 <p>
-  <a href="https://github.com/mansi-garg27">
+  <a href="https://github.com/mansigarg27">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/mansi-garg-898138344">
@@ -13,7 +13,7 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Data+Science+Student;Python+Developer;AI+Enthusiast;Building+Real-World+Projects;Always+Learning+%26+Improving" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Data+Science+Student;Python+Developer;AI+Enthusiast;Data+Analytics+Learner;Building+Real-World+Projects;Always+Learning+%26+Improving" />
 
 </div>
 
@@ -162,9 +162,9 @@ A Python-based application for generating secure random passwords.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mansi-garg27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mansigarg27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansi-garg27&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansigarg27&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
@@ -174,7 +174,7 @@ A Python-based application for generating secure random passwords.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=mansi-garg27&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=mansigarg27&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -184,7 +184,7 @@ A Python-based application for generating secure random passwords.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mansi-garg27&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mansigarg27&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -213,7 +213,7 @@ A Python-based application for generating secure random passwords.
 
 <div align="center">
 
-<a href="https://leetcode.com/u/mansigarg27/">
+<a href="https://leetcode.com/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
@@ -237,7 +237,7 @@ I'm always interested in **learning, collaborating and building useful projects*
 <img src="https://img.shields.io/badge/LinkedIn-Mansi%20Garg-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/mansi-garg27">
+<a href="https://github.com/mansigarg27">
 <img src="https://img.shields.io/badge/GitHub-Mansi%20Garg-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -249,6 +249,6 @@ I'm always interested in **learning, collaborating and building useful projects*
 
 ### ⭐ Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=mansi-garg27&label=Profile%20Views&color=blue&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=mansigarg27&label=Profile%20Views&color=blue&style=flat"/>
 
 </div>
