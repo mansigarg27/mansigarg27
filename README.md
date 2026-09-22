@@ -80,11 +80,9 @@
 
 <div align="center">
 
-### ✨ Always Learning. Always Building.
+## Always Learning. Always Building.
 
 </div>
----
-
 <div align="center">
 
 ### ✨ Thanks for visiting my profile! ✨
